@@ -12,6 +12,7 @@ select {
     font-family: Montserrat;
     font-size: 1.3rem;
     margin: 5px;
+    min-width: 100px;
 }
 
 input {
@@ -20,10 +21,11 @@ input {
     font-family: Montserrat;
     font-size: 1.1rem;
     height: 35px;
+    min-width: 150px;
 }
 
 label {
     font-family: Montserrat;
     font-size: 1.3rem;
-    
+    color: yellow;
 }
